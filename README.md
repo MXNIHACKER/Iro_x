@@ -1,12 +1,12 @@
 <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+X+MUSIC)](https://github.com/shaeep043/Iro_X)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+DEVIL+X+MUSIC)](https://github.com/MXNIHACKER/Iro_X)
 
 <h2 align="center">
-    ──「 Iro X Music 」──
+    ── ⌜ ᴅᴇᴠɪʟ ✘ ᴍᴜsɪᴄ ⌟ ──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/7b9bfe8d7fbb2589071e3.jpg">
+  <img src="https://te.legra.ph/file/4af68cd2482ecd96f2263.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b8e797457f437310813cb.jpg">
+  <img src="https://te.legra.ph/file/137e53a7818ef4ff21bfc.jpg">
 </p>
 
 <h3 align="center">
