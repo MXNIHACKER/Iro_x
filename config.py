@@ -24,7 +24,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Iro x ᴍᴜsɪᴄ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "⏤͟͞• ⌜ ᴅᴇᴠɪʟ ✘ ᴍᴜsɪᴄ ⌟ 💀")
 
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "6045293810").split())
@@ -39,10 +39,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/iro_bot_support")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/iro_x_support")
+    "SUPPORT_GROUP", "https://t.me/Devil_Hell_7")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -114,26 +112,26 @@ confirmer = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/5fb1d6a6dd6555ff52ad8.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/201f8b6d34523f5642cff.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/eee5e3d03dbfcf6514595.jpg",
+    "https://te.legra.ph/file/b0bcb5aebb8361cd6ea81.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/c5ae7505b832353b2dbfc.jpg",
+    "https://te.legra.ph/file/6a6f8d2032b3b6a1a7c31.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://te.legra.ph/file/df481726bdfafdbc7d85c.jpg",
+    "https://te.legra.ph/file/6a6f8d2032b3b6a1a7c31.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://te.legra.ph/file/df481726bdfafdbc7d85c.jpg",
+    "https://te.legra.ph/file/6a6f8d2032b3b6a1a7c31.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
@@ -148,7 +146,7 @@ TELEGRAM_VIDEO_URL = getenv(
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg",
+    "https://te.legra.ph/file/6a6f8d2032b3b6a1a7c31.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
