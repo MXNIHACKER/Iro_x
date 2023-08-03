@@ -86,6 +86,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/raichuop07"> <img src="https://img.shields.io/badge/Raichu-black?style=for-the-badge&logo=github" alt="Raichu" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Black Mamba](https://github.com/FantasticSukhi) </b>
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Altron](https://t.me/TheAltron) </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [DEVIL](https://github.com/MXNIHACKER) </b>
 
